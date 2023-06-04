@@ -1,7 +1,7 @@
 # Detection of Cancer through image data using PyTorch
 Dataset is stored in data_sample.zip \
 And labels of the data are stored in labels.csv \
-Notebook is stored as notebook.ipynb \
+Notebook is stored as notebook.ipynb
 
 Using the ResNet34 pre-trained model for classification
 
